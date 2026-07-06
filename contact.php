@@ -43,7 +43,7 @@ require_once "includes/header.php";
                 <i class="fa-solid fa-phone"></i>
                 <div>
                     <h3>Phone</h3>
-                    <p>+94 77 123 4567</p>
+                    <p>+94 76 125 8270</p>
                 </div>
             </div>
 
@@ -51,7 +51,7 @@ require_once "includes/header.php";
                 <i class="fa-solid fa-envelope"></i>
                 <div>
                     <h3>Email</h3>
-                    <p>travellk@example.com</p>
+                    <p>supunvirajith21@gmail.com</p>
                 </div>
             </div>
 
